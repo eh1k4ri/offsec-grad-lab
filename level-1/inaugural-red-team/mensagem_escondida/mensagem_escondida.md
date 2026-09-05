@@ -1,4 +1,4 @@
-# CTF Writeup — Flag 02
+# CTF Writeup — Mensagem Escondida / Hidden Message
 
 | | |
 |---|---|

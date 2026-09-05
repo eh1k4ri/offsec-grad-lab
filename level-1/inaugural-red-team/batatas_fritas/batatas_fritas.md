@@ -1,4 +1,4 @@
-# CTF Writeup — Flag 01
+# CTF Writeup — Batatas Fritas / French Fries
 
 | | |
 |---|---|
